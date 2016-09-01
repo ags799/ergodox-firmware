@@ -164,6 +164,9 @@ A few concepts that might be different:
   environments (especially Linux, appropriately set up, or [WinAVR]
   (http://winavr.sourceforge.net/) under Windows) should work too.
 
+* If the above doesn't install AVR tools on your OS X machine, try getting them
+  from [here](https://www.obdev.at/products/crosspack/index.html).
+
 * I also assume that you are using [git] (http://git-scm.com/) (for `make
   clean`).
 
