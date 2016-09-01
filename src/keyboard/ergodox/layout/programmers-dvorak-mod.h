@@ -1,9 +1,9 @@
 /* ----------------------------------------------------------------------------
- * ergoDOX : layout : Progammer's Dvorak : exports
+ * ergoDOX : layout : Programmer's Dvorak : exports
  * ----------------------------------------------------------------------------
  * Copyright (c) 2012 Ben Blazak <benblazak.dev@gmail.com>
  * Released under The MIT License (MIT) (see "license.md")
- * Project located at <https://github.com/ags799/ergodox-firmware>
+ * Project located at <https://github.com/benblazak/ergodox-firmware>
  * ------------------------------------------------------------------------- */
 
 
