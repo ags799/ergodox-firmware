@@ -29,19 +29,19 @@ const uint8_t PROGMEM _kb_layout[KB_LAYERS][KB_ROWS][KB_COLUMNS] = {
       _tab,     _Q,         _W,      _E,      _R,    _T,    1,
  _capsLock,     _A,         _S,      _D,      _F,    _G,
    _shiftL,     _Z,         _X,      _C,      _V,    _B,    1,
-     _guiL, _grave, _backslash,  _equal, _arrowR,
+      _end, _grave, _backslash,  _equal, _arrowR,
                                                  _ctrlL, _altL,
                                               0,      0, _home,
-                                            _bs,   _del,  _end,
+                                            _bs,   _del, _guiL,
 // right hand
         3, _7,      _8,      _9,      _0,      _dash,         0,
 _bracketL, _Y,      _U,      _I,      _O,         _P, _bracketR,
            _H,      _J,      _K,      _L, _semicolon,    _quote,
         1, _N,      _M,  _comma, _period,     _slash,   _shiftR,
-               _arrowL, _arrowD, _arrowU,    _arrowR,     _guiR,
+               _arrowL, _arrowD, _arrowU,    _arrowR,    _pageD,
  _altR, _ctrlR,
 _pageU,      0,      0,
-_pageD, _enter, _space ),
+ _guiR, _enter, _space ),
 
 
 	KB_MATRIX_LAYER(  // layout: layer 1: function and symbol keys
