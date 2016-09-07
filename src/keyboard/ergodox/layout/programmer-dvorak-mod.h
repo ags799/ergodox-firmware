@@ -1,5 +1,5 @@
 /* ----------------------------------------------------------------------------
- * ergoDOX : layout : Programmer's Dvorak : exports
+ * ergoDOX : layout : Programmer Dvorak : exports
  * ----------------------------------------------------------------------------
  * Copyright (c) 2012 Ben Blazak <benblazak.dev@gmail.com>
  * Released under The MIT License (MIT) (see "license.md")
@@ -7,8 +7,8 @@
  * ------------------------------------------------------------------------- */
 
 
-#ifndef KEYBOARD__ERGODOX__LAYOUT__PROGRAMMERS__DVORAK_h
-	#define KEYBOARD__ERGODOX__LAYOUT__PROGRAMMERS__DVORAK_h
+#ifndef KEYBOARD__ERGODOX__LAYOUT__PROGRAMMER__DVORAK_h
+	#define KEYBOARD__ERGODOX__LAYOUT__PROGRAMMER__DVORAK_h
 
 	#include "../controller.h"
 

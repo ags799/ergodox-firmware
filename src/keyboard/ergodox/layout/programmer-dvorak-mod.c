@@ -1,5 +1,5 @@
 /* ----------------------------------------------------------------------------
- * ergoDOX layout : Programmer's Dvorak
+ * ergoDOX layout : Programmer Dvorak
  * ----------------------------------------------------------------------------
  * Copyright (c) 2012 Ben Blazak <benblazak.dev@gmail.com>
  * Released under The MIT License (MIT) (see "license.md")
