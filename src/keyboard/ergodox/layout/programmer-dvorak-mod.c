@@ -144,6 +144,16 @@ _F12,       _F6,    _F7,       _F8,       _F9,         _F10,   _power,
 #define  lpop8    &kbfun_layer_pop_8
 #define  lpop9    &kbfun_layer_pop_9
 #define  lpop10   &kbfun_layer_pop_10
+#define  ltog1    &kbfun_layer_toggle_1
+#define  ltog2    &kbfun_layer_toggle_2
+#define  ltog3    &kbfun_layer_toggle_3
+#define  ltog4    &kbfun_layer_toggle_4
+#define  ltog5    &kbfun_layer_toggle_5
+#define  ltog6    &kbfun_layer_toggle_6
+#define  ltog7    &kbfun_layer_toggle_7
+#define  ltog8    &kbfun_layer_toggle_8
+#define  ltog9    &kbfun_layer_toggle_9
+#define  ltog10   &kbfun_layer_toggle_10
 // ---
 
 // device
