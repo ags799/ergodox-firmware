@@ -48,7 +48,7 @@ _bracketL, _Y,      _U,      _I,      _O,         _P, _bracketR,
 // unused
 0,
 // left hand
-  0,        _F1,        _F2,       _F3,       _F4,       _F5, _F11,
+  0,        _F7,        _F5,       _F3,       _F1,       _F9, _F11,
   0,  _bracketL,  _bracketR, _bracketL, _bracketR,         0,    1,
   0, _semicolon,     _slash,     _dash,     _0_kp,_semicolon,
   0,      _6_kp,      _7_kp,     _8_kp,     _9_kp,    _equal,    2,
@@ -57,7 +57,7 @@ _bracketL, _Y,      _U,      _I,      _O,         _P, _bracketR,
                                                          0,  0,  0,
                                                          0,  0,  0,
 // right hand
-_F12,       _F6,      _F7,                 _F8,                 _F9,                _F10,   _power,
+_F12,       _F10,      _F2,                 _F4,                 _F6,                _F8,   _power,
    0,         0,    _dash,              _comma,             _period,       _currencyUnit, _volumeU,
           _mute, _volumeD,            _volumeU, MEDIAKEY_PLAY_PAUSE, MEDIAKEY_NEXT_TRACK, _volumeD,
    2,        _8,    _mute,               _3_kp,               _4_kp,               _5_kp,    _mute,
